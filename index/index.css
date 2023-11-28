@@ -289,6 +289,7 @@ margin-left: -22.5%;
 
 
 
+
 }
 .category3{
  
@@ -321,10 +322,10 @@ margin-left: -22.5%;
     
     .button-bg {
       position: absolute;
-      top: 0;
-      left: 15.8%;
-      width: 50%;
-      height: 6.9vh;
+      top: -1%;
+      left: 29%;
+      width: 43%;
+      height: 7vh;
       background: linear-gradient(
         90deg,
         #b9ff38 0%,
@@ -343,10 +344,10 @@ margin-left: -22.5%;
     }
     #button-bg2{
       position: absolute;
-      top: 0;
-      left: 19%;
-      width: 63.4%;
-      height: 6.9vh;
+      top: -1%;
+      left: 30.5%;
+      width: 40%;
+      height: 7vh;
       background: linear-gradient(
         90deg,
         #1aeed2 0%,
@@ -366,10 +367,10 @@ margin-left: -22.5%;
     }
     #button-bg3{
       position: absolute;
-      top: 0;
-      left: 15.8%;
-      width: 69.5%;
-      height: 6.9vh;
+      top: -1%;
+      left: 24.5%;
+      width: 52%;
+      height: 7vh;
       background: linear-gradient(
         90deg,
         #ee5d1a 0%,

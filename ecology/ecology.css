@@ -193,7 +193,7 @@ box-sizing: border-box;
 }
 
 .search{
-  box-shadow:0 0 2vh 0.1vw #ffffff ;
+  box-shadow:0 0 1vh 0.1vw #ffffff ;
   border: 0;
   border-radius: 3vw 0 0 3vw;
   padding: 0 1vh 0 10vh;
@@ -237,8 +237,8 @@ cursor: text;
 }
 .search-btn:hover {
 transition: 0.2s ease-in-out;
-background-color: green;
-box-shadow:0 0 2vh 1vw green ;
+background-color: rgb(0, 255, 0);
+box-shadow:0 0 2vh 1vw rgb(0, 255, 0) ;
 font-size: 3vh;
 font-weight: 800;
 cursor: pointer;
